@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\DELL\Desktop\serasa_java\.metadata\.plugins\org.eclipse.jdt.core
+207590907.index
+3109147826.index
+1865797976.index
